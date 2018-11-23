@@ -1,2 +1,4 @@
-hello world
-2
+<?php
+
+
+?>
